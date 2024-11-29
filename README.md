@@ -33,6 +33,32 @@ Esta contiene dos pdf, el diagrama relacional en drawio y el diagrama relacional
 Esta contiene screenshots de los dashboars en Tableu
 
 
+### Carpeta Ética 
+* Debemos preocuparnos por la IA 
+
+### Carpeta Procesamiento de Lenguaje Natural 
+
+* Carpeta Tarea 1 - Clasificación de email de spam: pre-procesamiento y baselines
+* Tarea 2 - Investigación de TF-IDF y Laplace Smoothing
+* Tarea 3 - Clasificación de sentimientos de películas -Ba
+* Tarea 4-Investigación II de N-gramas
+* Tarea 6-Clasificación de texto con Word Embeddins pre-en
+* BERT notebook actividades
+
+
+###  Deep Learning
+
+* Modulo 2 - 1.-Actividad en Clase - Numpy, Pandas, Matplotlib
+* Modulo 2 - 2.-Actividad en Clase - Student Performance
+* Modulo 2 - 3.-Actividad en Clase - Student Performance Profiles
+* Carpeta Modulo 2 - 4.-Actividad en Clase - Weather Forecasting
+* Modulo 2 - 5.- Investigate and Present
+* Modulo 2 - 6.- Practica Examen Conceptos
+* Modulo 2 - 7.- Feature Selection
+* Modulo 2 - 8. Dense + Dropout + Batch Normalization
+* Reporte Estrategias de segmentación y predicción
+* TimeSeries
+
 
 ## La carpeta Portafolio de implementación contine:
 
